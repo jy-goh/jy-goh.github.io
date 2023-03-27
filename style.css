@@ -1,0 +1,40 @@
+body {
+      background-color: lime;
+}
+
+.top {
+	 background-color: gray;
+	 float: left;
+}
+
+h1 {
+    color:brown;
+    font-family: broadway;
+    background-color: yellow;
+    border: 5px solid purple;
+    padding: 25px; 
+    text-transform: uppercase;
+}
+
+h3 {
+    color: green;
+    font-family: helvetica;
+    background-color: yellow;
+    border: 2px solid purple;
+}
+
+#highlight {
+	        margin-left: 150px;
+}
+
+img {
+     border: 5px solid yellow;
+     width: 50%;
+	 height: 50%;
+	 margin-left: 100px;
+}
+
+.bottom {
+	    background-color: aquamarine;
+	    float: right;
+}
