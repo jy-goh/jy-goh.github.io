@@ -13,9 +13,11 @@ Digital Project Development. Here is the structure:
    - class assignments Words documents
 
 ## Files
-1. index.html
+1. README.md
+   - markdown code of README.
+2. index.html
    - html of website.
-2. scaled-empire-state.jpeg
+3. scaled-empire-state.jpeg
    - image of view from the Empire State Building.
-3. style.css
+4. style.css
    - css of website.
