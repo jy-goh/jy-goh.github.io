@@ -10,7 +10,7 @@ Digital Project Development. Here is the structure:
 
 ## Folder
 1. data
-   - class assignments Words documents
+   - class assignments Words documents. Divided into OMV-exploration and RR (reading responses). More information within the documents. 
 
 ## Files
 1. README.md
