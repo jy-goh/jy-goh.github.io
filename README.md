@@ -17,7 +17,7 @@ Digital Project Development. Here is the structure:
    - markdown code of README.
 2. index.html
    - html of website.
-3. scaled-empire-state.jpeg
-   - image of view from the Empire State Building.
-4. style.css
+3. style.css
    - css of website.
+4. Project.html
+   - html of Twine story
